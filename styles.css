@@ -17,13 +17,22 @@ body {
 
 }
 
-.btn {
+.btns {
   margin: 25px;
   display: inline-block;
   height: 200px;
   width: 200px;
   border: 10px solid black;
   border-radius: 20%;
+}
+#mobile-click {
+  margin: 25px;
+  line-height: 2;
+  background-color: #011F3F;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2rem;
+  margin:  5%;
+  color: #FEF2BF;
 }
 
 .game-over {
